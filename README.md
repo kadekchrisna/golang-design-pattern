@@ -1,2 +1,1 @@
-# golang-design-pattern
-Golang Design Pattern [WIP]
+# Golang Design Pattern [WIP]
